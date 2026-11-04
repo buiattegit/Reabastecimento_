@@ -1,0 +1,1606 @@
+{
+  "arquivo": "REABASTECIMENTO_163107216403_262806.CSV",
+  "arquivo_modificado_utc": "2026-11-04T19:32:07+00:00",
+  "processado_utc": "2026-11-04T19:35:21.884340+00:00",
+  "total_linhas_origem": 4299,
+  "skus_monitorados": [
+    "PP5MS1",
+    "MDRD142FGD303",
+    "38TAVCB12M5",
+    "42GPVCA09M5",
+    "MDRD181FGD303",
+    "MDRD086FGD303",
+    "38TBVCC09M5",
+    "MDRD108FGD303",
+    "MDWTF08B1",
+    "MRAS22",
+    "38EZVCA18M5",
+    "MDWTF08B2",
+    "MRAE21",
+    "CCB40P2",
+    "MDRX150FGG502",
+    "MDRT554EVF502",
+    "MDRX150FGG501",
+    "MF200D105WB/GK-01",
+    "MD-RS710FGD281",
+    "CCB20P2",
+    "MDRD142RTD323",
+    "42EFVCA12M5",
+    "38EZVQA12M5",
+    "38TBVCA12M5",
+    "MDRT533EVD012",
+    "38CCVF48515MCA",
+    "38CCW064235MC",
+    "38CCVF36515MCA",
+    "38CCU060235HC"
+  ],
+  "skus_nao_encontrados": [],
+  "registros": [
+    {
+      "IDPRODUTO": "700",
+      "SKU": "CCB20P2",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198021896",
+      "ENDERECO_PICKING": "R17109011",
+      "QTD_DISPONIVEL": 48.0
+    },
+    {
+      "IDPRODUTO": "700",
+      "SKU": "CCB20P2",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198021896",
+      "ENDERECO_PICKING": "R17111011",
+      "QTD_DISPONIVEL": 40.0
+    },
+    {
+      "IDPRODUTO": "700",
+      "SKU": "CCB20P2",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198021896",
+      "ENDERECO_PICKING": "R17113011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "700",
+      "SKU": "CCB20P2",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198021896",
+      "ENDERECO_PICKING": "R17115011",
+      "QTD_DISPONIVEL": 3.0
+    },
+    {
+      "IDPRODUTO": "699",
+      "SKU": "CCB40P2",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198021902",
+      "ENDERECO_PICKING": "R17073011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "611",
+      "SKU": "MDRD086FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022954",
+      "ENDERECO_PICKING": "R17040011",
+      "QTD_DISPONIVEL": 11.0
+    },
+    {
+      "IDPRODUTO": "611",
+      "SKU": "MDRD086FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022954",
+      "ENDERECO_PICKING": "R17050011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "611",
+      "SKU": "MDRD086FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022954",
+      "ENDERECO_PICKING": "R17062011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "611",
+      "SKU": "MDRD086FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022954",
+      "ENDERECO_PICKING": "R17070011",
+      "QTD_DISPONIVEL": 12.0
+    },
+    {
+      "IDPRODUTO": "611",
+      "SKU": "MDRD086FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022954",
+      "ENDERECO_PICKING": "R17072011",
+      "QTD_DISPONIVEL": 4.0
+    },
+    {
+      "IDPRODUTO": "611",
+      "SKU": "MDRD086FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022954",
+      "ENDERECO_PICKING": "R17132011",
+      "QTD_DISPONIVEL": 7.0
+    },
+    {
+      "IDPRODUTO": "611",
+      "SKU": "MDRD086FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022954",
+      "ENDERECO_PICKING": "R17134011",
+      "QTD_DISPONIVEL": 12.0
+    },
+    {
+      "IDPRODUTO": "611",
+      "SKU": "MDRD086FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022954",
+      "ENDERECO_PICKING": "R17138011",
+      "QTD_DISPONIVEL": 12.0
+    },
+    {
+      "IDPRODUTO": "611",
+      "SKU": "MDRD086FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022954",
+      "ENDERECO_PICKING": "R17140011",
+      "QTD_DISPONIVEL": 12.0
+    },
+    {
+      "IDPRODUTO": "611",
+      "SKU": "MDRD086FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022954",
+      "ENDERECO_PICKING": "R17142011",
+      "QTD_DISPONIVEL": 12.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20013011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20018011",
+      "QTD_DISPONIVEL": 7.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20020011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20022011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20024011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20028011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20030011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20032011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20034011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20036011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20038011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20040011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20050011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20052011",
+      "QTD_DISPONIVEL": 7.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20054011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20058011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20060011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20062011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20066011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20068011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20072011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "492",
+      "SKU": "MDRD142FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022398",
+      "ENDERECO_PICKING": "R16056011",
+      "QTD_DISPONIVEL": 6.0
+    },
+    {
+      "IDPRODUTO": "2290",
+      "SKU": "MDRD142RTD323",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022848",
+      "ENDERECO_PICKING": "R10010011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R17082011",
+      "QTD_DISPONIVEL": 7.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R17086011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R17088011",
+      "QTD_DISPONIVEL": 3.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R17092011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R17094011",
+      "QTD_DISPONIVEL": 7.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R17119011",
+      "QTD_DISPONIVEL": 7.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20017011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20021011",
+      "QTD_DISPONIVEL": 7.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20025011",
+      "QTD_DISPONIVEL": 4.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20027011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20031011",
+      "QTD_DISPONIVEL": 6.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20035011",
+      "QTD_DISPONIVEL": 5.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20039011",
+      "QTD_DISPONIVEL": 6.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20041011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20049011",
+      "QTD_DISPONIVEL": 7.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20055011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20059011",
+      "QTD_DISPONIVEL": 7.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R20065011",
+      "QTD_DISPONIVEL": 5.0
+    },
+    {
+      "IDPRODUTO": "697",
+      "SKU": "MD-RS710FGD281",
+      "IDDEPOSITANTE": "",
+      "IDARMAZEM": "",
+      "CODIGO_BARRAS": "",
+      "ENDERECO_PICKING": "",
+      "QTD_DISPONIVEL": 0.0
+    },
+    {
+      "IDPRODUTO": "730",
+      "SKU": "MDRT533EVD012",
+      "IDDEPOSITANTE": "",
+      "IDARMAZEM": "",
+      "CODIGO_BARRAS": "",
+      "ENDERECO_PICKING": "",
+      "QTD_DISPONIVEL": 0.0
+    },
+    {
+      "IDPRODUTO": "791",
+      "SKU": "MDRT554EVF502",
+      "IDDEPOSITANTE": "",
+      "IDARMAZEM": "",
+      "CODIGO_BARRAS": "",
+      "ENDERECO_PICKING": "",
+      "QTD_DISPONIVEL": 0.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17096011",
+      "QTD_DISPONIVEL": 5.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17098011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17100011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17108011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17110011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17112011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17114011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17116011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17118011",
+      "QTD_DISPONIVEL": 4.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17122011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17124011",
+      "QTD_DISPONIVEL": 4.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R17126011",
+      "QTD_DISPONIVEL": 5.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R19010011",
+      "QTD_DISPONIVEL": 3.0
+    },
+    {
+      "IDPRODUTO": "498",
+      "SKU": "MDRX150FGG502",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023883",
+      "ENDERECO_PICKING": "R10011011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17144011",
+      "QTD_DISPONIVEL": 3.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17146011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17148011",
+      "QTD_DISPONIVEL": 6.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17150011",
+      "QTD_DISPONIVEL": 4.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17154011",
+      "QTD_DISPONIVEL": 6.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17155011",
+      "QTD_DISPONIVEL": 4.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17157011",
+      "QTD_DISPONIVEL": 5.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17158011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17159011",
+      "QTD_DISPONIVEL": 3.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17160011",
+      "QTD_DISPONIVEL": 6.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17161011",
+      "QTD_DISPONIVEL": 3.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17162011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "795",
+      "SKU": "MDWTF08B1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023159",
+      "ENDERECO_PICKING": "R17163011",
+      "QTD_DISPONIVEL": 4.0
+    },
+    {
+      "IDPRODUTO": "796",
+      "SKU": "MDWTF08B2",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023166",
+      "ENDERECO_PICKING": "R17034011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "796",
+      "SKU": "MDWTF08B2",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023166",
+      "ENDERECO_PICKING": "R17038011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "796",
+      "SKU": "MDWTF08B2",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023166",
+      "ENDERECO_PICKING": "R17101011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "3784",
+      "SKU": "MF200D105WB/GK-01",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198005124",
+      "ENDERECO_PICKING": "R13008011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "310",
+      "SKU": "MRAE21",
+      "IDDEPOSITANTE": "",
+      "IDARMAZEM": "",
+      "CODIGO_BARRAS": "",
+      "ENDERECO_PICKING": "",
+      "QTD_DISPONIVEL": 0.0
+    },
+    {
+      "IDPRODUTO": "693",
+      "SKU": "MRAS22",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898554875068",
+      "ENDERECO_PICKING": "R17006011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "693",
+      "SKU": "MRAS22",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898554875068",
+      "ENDERECO_PICKING": "R19063011",
+      "QTD_DISPONIVEL": 9.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17007011",
+      "QTD_DISPONIVEL": 26.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17009011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17013011",
+      "QTD_DISPONIVEL": 7.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17015011",
+      "QTD_DISPONIVEL": 26.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17017011",
+      "QTD_DISPONIVEL": 30.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17019011",
+      "QTD_DISPONIVEL": 31.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17021011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17023011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17025011",
+      "QTD_DISPONIVEL": 32.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17027011",
+      "QTD_DISPONIVEL": 32.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17029011",
+      "QTD_DISPONIVEL": 30.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17031011",
+      "QTD_DISPONIVEL": 31.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17033011",
+      "QTD_DISPONIVEL": 28.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17035011",
+      "QTD_DISPONIVEL": 31.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17037011",
+      "QTD_DISPONIVEL": 28.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17039011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17041011",
+      "QTD_DISPONIVEL": 31.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17043011",
+      "QTD_DISPONIVEL": 28.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17045011",
+      "QTD_DISPONIVEL": 29.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17047011",
+      "QTD_DISPONIVEL": 31.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17049011",
+      "QTD_DISPONIVEL": 32.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17051011",
+      "QTD_DISPONIVEL": 28.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17053011",
+      "QTD_DISPONIVEL": 30.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17057011",
+      "QTD_DISPONIVEL": 32.0
+    },
+    {
+      "IDPRODUTO": "797",
+      "SKU": "PP5MS1",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022015",
+      "ENDERECO_PICKING": "R17059011",
+      "QTD_DISPONIVEL": 18.0
+    },
+    {
+      "IDPRODUTO": "2447",
+      "SKU": "38CCU060235HC",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898554878700",
+      "ENDERECO_PICKING": "R22006011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "2858",
+      "SKU": "38CCVF36515MCA",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241399",
+      "ENDERECO_PICKING": "R27012011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "986",
+      "SKU": "38CCVF48515MCA",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241405",
+      "ENDERECO_PICKING": "R22084011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "852",
+      "SKU": "38CCW064235MC",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898945166928",
+      "ENDERECO_PICKING": "R19069011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "852",
+      "SKU": "38CCW064235MC",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898945166928",
+      "ENDERECO_PICKING": "R22083011",
+      "QTD_DISPONIVEL": 8.0
+    },
+    {
+      "IDPRODUTO": "852",
+      "SKU": "38CCW064235MC",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898945166928",
+      "ENDERECO_PICKING": "R26010011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "372",
+      "SKU": "38EZVCA18M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898945167598",
+      "ENDERECO_PICKING": "R16156011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "372",
+      "SKU": "38EZVCA18M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898945167598",
+      "ENDERECO_PICKING": "R19046011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "372",
+      "SKU": "38EZVCA18M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898945167598",
+      "ENDERECO_PICKING": "R19048011",
+      "QTD_DISPONIVEL": 2.0
+    },
+    {
+      "IDPRODUTO": "299",
+      "SKU": "38EZVQA12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898945167666",
+      "ENDERECO_PICKING": "R19016011",
+      "QTD_DISPONIVEL": 3.0
+    },
+    {
+      "IDPRODUTO": "299",
+      "SKU": "38EZVQA12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898945167666",
+      "ENDERECO_PICKING": "R27022011",
+      "QTD_DISPONIVEL": 12.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R15030011",
+      "QTD_DISPONIVEL": 3.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R19011011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R19013011",
+      "QTD_DISPONIVEL": 5.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R19015011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R19017011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R19019011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "450",
+      "SKU": "38TBVCA12M5",
+      "IDDEPOSITANTE": "",
+      "IDARMAZEM": "",
+      "CODIGO_BARRAS": "",
+      "ENDERECO_PICKING": "",
+      "QTD_DISPONIVEL": 0.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18014011",
+      "QTD_DISPONIVEL": 3.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18016011",
+      "QTD_DISPONIVEL": 17.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18018011",
+      "QTD_DISPONIVEL": 18.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18020011",
+      "QTD_DISPONIVEL": 18.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18022011",
+      "QTD_DISPONIVEL": 18.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18024011",
+      "QTD_DISPONIVEL": 18.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18026011",
+      "QTD_DISPONIVEL": 4.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18034011",
+      "QTD_DISPONIVEL": 18.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18036011",
+      "QTD_DISPONIVEL": 18.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18038011",
+      "QTD_DISPONIVEL": 18.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18040011",
+      "QTD_DISPONIVEL": 18.0
+    },
+    {
+      "IDPRODUTO": "3836",
+      "SKU": "38TBVCC09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240088",
+      "ENDERECO_PICKING": "R18042011",
+      "QTD_DISPONIVEL": 18.0
+    },
+    {
+      "IDPRODUTO": "455",
+      "SKU": "42EFVCA12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898945167949",
+      "ENDERECO_PICKING": "R18028011",
+      "QTD_DISPONIVEL": 1.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18007011",
+      "QTD_DISPONIVEL": 5.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18009011",
+      "QTD_DISPONIVEL": 12.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18011011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18015011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18017011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18019011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18021011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18023011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18025011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18027011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18029011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18031011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18033011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18035011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18037011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18039011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18041011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18043011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18045011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18047011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18049011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18051011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18053011",
+      "QTD_DISPONIVEL": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18057011",
+      "QTD_DISPONIVEL": 5.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R18059011",
+      "QTD_DISPONIVEL": 9.0
+    }
+  ]
+}
