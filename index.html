@@ -57,6 +57,7 @@ const target=["PP5MS1","MDRD142FGD303","38TAVCB12M5","42GPVCA09M5","MDRD181FGD30
 // null: planilha sem valor; 0: mínimo zero informado, tratado como não configurado.
 const minimo={"PP5MS1":5,"MDRD142FGD303":26,"38TAVCB12M5":8,"42GPVCA09M5":7,"MDRD181FGD303":8,"MDRD086FGD303":3,"38TBVCC09M5":4,"MDRD108FGD303":9,"MDWTF08B1":0,"MRAS22":1,"38EZVCA18M5":null,"MDWTF08B2":7,"MRAE21":1,"CCB40P2":2,"MDRX150FGG502":3,"MDRT554EVF502":0,"MDRX150FGG501":5,"MF200D105WB/GK-01":0,"MD-RS710FGD281":0,"CCB20P2":0,"MDRD142RTD323":0,"42EFVCA12M5":null,"38EZVQA12M5":null,"38TBVCA12M5":null,"MDRT533EVD012":0,"38CCVF48515MCA":null,"38CCW064235MC":null,"38CCVF36515MCA":null,"38CCU060235HC":null};
 let data=[],opened=new Set(),manualCSV=false,ultimoProcessamento=null,eventos=[];
+const $=id=>document.getElementById(id),fmt=n=>new Intl.NumberFormat('pt-BR',{maximumFractionDigits:2}).format(n);
 const READ_KEY='buiatte_reab_alertas_lidos_v1';
 let readIds=new Set();try{readIds=new Set(JSON.parse(localStorage.getItem(READ_KEY)||'[]'))}catch(e){}
 function dataHora(iso){if(!iso)return 'Não informado';const d=new Date(iso);return isNaN(d)?'Não informado':d.toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'})+' (Brasília)'}
@@ -65,7 +66,6 @@ function renderAlertas(){const box=$('alertsList');box.innerHTML=eventos.length?
 $('bell').onclick=()=>{$('alertsPage').classList.add('active');$('mainTable').style.display='none';$('alertsPage').scrollIntoView({behavior:'smooth'})};
 $('closeAlerts').onclick=()=>{$('alertsPage').classList.remove('active');$('mainTable').style.display='';};
 $('markRead').onclick=()=>{eventos.forEach(e=>readIds.add(e.id));localStorage.setItem(READ_KEY,JSON.stringify([...readIds].slice(-3000)));atualizarSino()};
-const $=id=>document.getElementById(id),fmt=n=>new Intl.NumberFormat('pt-BR',{maximumFractionDigits:2}).format(n);
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const number=x=>{const s=String(x??'0').trim().replace(',','.');const n=Number(s);if(!Number.isFinite(n))throw Error('Quantidade inválida: '+s);return n};
 function resumo(){return target.map(s=>{const rows=data.filter(x=>x.sku===s),pick=rows.reduce((a,r)=>a+r.picking,0),pul=rows.reduce((a,r)=>a+r.pulmao,0),total=rows.reduce((a,r)=>a+r.total,0),min=minimo[s],falta=min>0?Math.max(0,min-pick):0,status=min==null||min===0?'sem_minimo':pick<min?'repor':'ok';return {sku:s,id:rows[0]?.id||'—',rows,pick,pul,total,min,falta,status}})}
