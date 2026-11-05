@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_181657159812_266798.CSV",
-  "arquivo_modificado_utc": "2026-11-05T21:17:46+00:00",
-  "processado_utc": "2026-11-05T21:20:04.800743+00:00",
-  "total_linhas_origem": 15537,
+  "arquivo": "REABASTECIMENTO_182657192666_266831.CSV",
+  "arquivo_modificado_utc": "2026-11-05T21:28:20+00:00",
+  "processado_utc": "2026-11-05T21:30:05.376973+00:00",
+  "total_linhas_origem": 15534,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -4758,18 +4758,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
-      "ENDERECO_PICKING": "OUT002111",
-      "QTD_DISPONIVEL": 4.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 4.0
-    },
-    {
-      "IDPRODUTO": "492",
-      "SKU": "MDRD142FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "Q01005011",
       "QTD_DISPONIVEL": 8.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -4831,10 +4819,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09007011",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -5239,10 +5227,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09026021",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -5323,10 +5311,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09029011",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -5467,10 +5455,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09034021",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -5539,10 +5527,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09037011",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -5719,10 +5707,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09044011",
-      "QTD_DISPONIVEL": 3.0,
+      "QTD_DISPONIVEL": 2.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 3.0
+      "QTD_PULMAO": 2.0
     },
     {
       "IDPRODUTO": "492",
@@ -6475,10 +6463,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09073011",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -6547,10 +6535,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09076031",
-      "QTD_DISPONIVEL": 14.0,
+      "QTD_DISPONIVEL": 12.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 14.0
+      "QTD_PULMAO": 12.0
     },
     {
       "IDPRODUTO": "492",
@@ -6595,10 +6583,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09082011",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -6643,10 +6631,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09085011",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -6655,10 +6643,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09086021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -6667,10 +6655,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09087011",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -6751,10 +6739,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09092011",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -6811,10 +6799,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09094021",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -7039,10 +7027,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09109011",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -7075,10 +7063,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09110021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -7087,10 +7075,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09111011",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -7135,30 +7123,6 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09114021",
-      "QTD_DISPONIVEL": 6.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
-    },
-    {
-      "IDPRODUTO": "492",
-      "SKU": "MDRD142FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022398",
-      "ENDERECO_PICKING": "R09115021",
-      "QTD_DISPONIVEL": 5.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
-    },
-    {
-      "IDPRODUTO": "492",
-      "SKU": "MDRD142FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022398",
-      "ENDERECO_PICKING": "R09116021",
       "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
@@ -7170,11 +7134,35 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
-      "ENDERECO_PICKING": "R09117011",
-      "QTD_DISPONIVEL": 8.0,
+      "ENDERECO_PICKING": "R09115021",
+      "QTD_DISPONIVEL": 3.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 3.0
+    },
+    {
+      "IDPRODUTO": "492",
+      "SKU": "MDRD142FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022398",
+      "ENDERECO_PICKING": "R09116021",
+      "QTD_DISPONIVEL": 3.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 3.0
+    },
+    {
+      "IDPRODUTO": "492",
+      "SKU": "MDRD142FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022398",
+      "ENDERECO_PICKING": "R09117011",
+      "QTD_DISPONIVEL": 7.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -7231,10 +7219,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09120021",
-      "QTD_DISPONIVEL": 2.0,
+      "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 2.0
+      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "492",
@@ -7375,10 +7363,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09127011",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -7387,10 +7375,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09127021",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 3.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 3.0
     },
     {
       "IDPRODUTO": "492",
@@ -7507,10 +7495,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09139021",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -7543,10 +7531,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09141021",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -7591,10 +7579,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09145011",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -7603,10 +7591,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09145021",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -7675,10 +7663,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09149021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -7699,10 +7687,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09151021",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -7723,10 +7711,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09152021",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -7771,10 +7759,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09158021",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -7807,10 +7795,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09160021",
-      "QTD_DISPONIVEL": 2.0,
+      "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 2.0
+      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "492",
@@ -7819,10 +7807,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R09161021",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -7867,10 +7855,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10006011",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -7963,10 +7951,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10011021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -7987,10 +7975,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10013021",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -8191,10 +8179,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10031021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -8299,10 +8287,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10040021",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -8383,10 +8371,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10048011",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -8491,10 +8479,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10065021",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -8539,10 +8527,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10074011",
-      "QTD_DISPONIVEL": 3.0,
+      "QTD_DISPONIVEL": 2.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 3.0
+      "QTD_PULMAO": 2.0
     },
     {
       "IDPRODUTO": "492",
@@ -8947,10 +8935,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10098021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -9319,10 +9307,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10116021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -9367,10 +9355,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10118011",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -9379,10 +9367,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10118021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -9391,10 +9379,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10119021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -9487,10 +9475,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10130021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -9511,10 +9499,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R10136021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -9623,18 +9611,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 8.0
-    },
-    {
-      "IDPRODUTO": "492",
-      "SKU": "MDRD142FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022398",
-      "ENDERECO_PICKING": "R10160011",
-      "QTD_DISPONIVEL": 2.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 2.0
     },
     {
       "IDPRODUTO": "492",
@@ -10039,10 +10015,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R11034021",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -11023,10 +10999,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R11096021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -11119,10 +11095,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R11101021",
-      "QTD_DISPONIVEL": 4.0,
+      "QTD_DISPONIVEL": 3.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 4.0
+      "QTD_PULMAO": 3.0
     },
     {
       "IDPRODUTO": "492",
@@ -11622,18 +11598,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
-      "ENDERECO_PICKING": "R11151021",
-      "QTD_DISPONIVEL": 2.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 2.0
-    },
-    {
-      "IDPRODUTO": "492",
-      "SKU": "MDRD142FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R11159011",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -11707,10 +11671,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R12011031",
-      "QTD_DISPONIVEL": 10.0,
+      "QTD_DISPONIVEL": 8.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 10.0
+      "QTD_PULMAO": 8.0
     },
     {
       "IDPRODUTO": "492",
@@ -11791,10 +11755,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R12018011",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -11971,10 +11935,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R12046021",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -11983,10 +11947,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R12048011",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -12919,10 +12883,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13008021",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -13110,23 +13074,11 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
-      "ENDERECO_PICKING": "R13032021",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "492",
-      "SKU": "MDRD142FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13033011",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -13135,10 +13087,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13033021",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -13475,18 +13427,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 8.0
-    },
-    {
-      "IDPRODUTO": "492",
-      "SKU": "MDRD142FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022398",
-      "ENDERECO_PICKING": "R13050061",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "492",
@@ -13855,10 +13795,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13076031",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -13891,10 +13831,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13079031",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -13915,10 +13855,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13081031",
-      "QTD_DISPONIVEL": 7.0,
+      "QTD_DISPONIVEL": 6.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 7.0
+      "QTD_PULMAO": 6.0
     },
     {
       "IDPRODUTO": "492",
@@ -13975,10 +13915,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13085021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -14239,10 +14179,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13101011",
-      "QTD_DISPONIVEL": 2.0,
+      "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 2.0
+      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "492",
@@ -14323,10 +14263,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13106021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -14395,10 +14335,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13110021",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -14407,10 +14347,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13111021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -14455,10 +14395,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13116011",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "492",
@@ -14479,10 +14419,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13118021",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -14503,10 +14443,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13120011",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 7.0
     },
     {
       "IDPRODUTO": "492",
@@ -14519,18 +14459,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 7.0
-    },
-    {
-      "IDPRODUTO": "492",
-      "SKU": "MDRD142FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022398",
-      "ENDERECO_PICKING": "R13120041",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "492",
@@ -14611,10 +14539,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R13125021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 4.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 4.0
     },
     {
       "IDPRODUTO": "492",
@@ -23526,6 +23454,18 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898554875075",
+      "ENDERECO_PICKING": "R16060051",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "310",
+      "SKU": "MRAE21",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898554875075",
       "ENDERECO_PICKING": "R16073021",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -23706,6 +23646,30 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898554875068",
+      "ENDERECO_PICKING": "R15089011",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "693",
+      "SKU": "MRAS22",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898554875068",
+      "ENDERECO_PICKING": "R15097011",
+      "QTD_DISPONIVEL": 2.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 2.0
+    },
+    {
+      "IDPRODUTO": "693",
+      "SKU": "MRAS22",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898554875068",
       "ENDERECO_PICKING": "R15100021",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -23743,10 +23707,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898554875068",
       "ENDERECO_PICKING": "R16068021",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 9.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 8.0
+      "QTD_PULMAO": 9.0
     },
     {
       "IDPRODUTO": "693",
@@ -23767,10 +23731,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898554875068",
       "ENDERECO_PICKING": "R16161011",
-      "QTD_DISPONIVEL": 1.0,
+      "QTD_DISPONIVEL": 2.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
+      "QTD_PULMAO": 2.0
     },
     {
       "IDPRODUTO": "693",
@@ -23791,10 +23755,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898554875068",
       "ENDERECO_PICKING": "R17006031",
-      "QTD_DISPONIVEL": 1.0,
+      "QTD_DISPONIVEL": 2.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
+      "QTD_PULMAO": 2.0
     },
     {
       "IDPRODUTO": "693",
@@ -28662,18 +28626,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943241825",
-      "ENDERECO_PICKING": "R16029031",
-      "QTD_DISPONIVEL": 12.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 12.0
-    },
-    {
-      "IDPRODUTO": "3183",
-      "SKU": "38TAVCB12M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898943241825",
       "ENDERECO_PICKING": "R16033031",
       "QTD_DISPONIVEL": 12.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -28895,18 +28847,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 10.0
-    },
-    {
-      "IDPRODUTO": "3183",
-      "SKU": "38TAVCB12M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898943241825",
-      "ENDERECO_PICKING": "R16072031",
-      "QTD_DISPONIVEL": 12.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 12.0
     },
     {
       "IDPRODUTO": "3183",
@@ -29299,6 +29239,30 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943241825",
       "ENDERECO_PICKING": "R19126011",
+      "QTD_DISPONIVEL": 12.0,
+      "TIPO_ESTOQUE": "PICKING",
+      "QTD_PICKING": 12.0,
+      "QTD_PULMAO": 0.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R19128011",
+      "QTD_DISPONIVEL": 12.0,
+      "TIPO_ESTOQUE": "PICKING",
+      "QTD_PICKING": 12.0,
+      "QTD_PULMAO": 0.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R19130011",
       "QTD_DISPONIVEL": 12.0,
       "TIPO_ESTOQUE": "PICKING",
       "QTD_PICKING": 12.0,
