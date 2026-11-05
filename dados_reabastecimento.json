@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_171657162053_266616.CSV",
-  "arquivo_modificado_utc": "2026-11-05T20:18:10+00:00",
-  "processado_utc": "2026-11-05T20:20:05.466335+00:00",
-  "total_linhas_origem": 15537,
+  "arquivo": "REABASTECIMENTO_172657158736_266636.CSV",
+  "arquivo_modificado_utc": "2026-11-05T20:28:46+00:00",
+  "processado_utc": "2026-11-05T20:30:06.011828+00:00",
+  "total_linhas_origem": 15536,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -16699,10 +16699,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198015352",
       "ENDERECO_PICKING": "B0304101",
-      "QTD_DISPONIVEL": 1.0,
+      "QTD_DISPONIVEL": 2.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
+      "QTD_PULMAO": 2.0
     },
     {
       "IDPRODUTO": "697",
@@ -16807,10 +16807,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198015352",
       "ENDERECO_PICKING": "D0104111",
-      "QTD_DISPONIVEL": 2.0,
+      "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 2.0
+      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "697",
@@ -28626,18 +28626,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943241825",
-      "ENDERECO_PICKING": "R15127011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "3183",
-      "SKU": "38TAVCB12M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898943241825",
       "ENDERECO_PICKING": "R15136011",
       "QTD_DISPONIVEL": 8.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -29290,6 +29278,18 @@
       "QTD_DISPONIVEL": 8.0,
       "TIPO_ESTOQUE": "PICKING",
       "QTD_PICKING": 8.0,
+      "QTD_PULMAO": 0.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R19110011",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PICKING",
+      "QTD_PICKING": 1.0,
       "QTD_PULMAO": 0.0
     },
     {
