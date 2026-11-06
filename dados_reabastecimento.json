@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_040657157473_268069.CSV",
-  "arquivo_modificado_utc": "2026-11-06T07:08:04+00:00",
-  "processado_utc": "2026-11-06T07:10:04.832875+00:00",
-  "total_linhas_origem": 15489,
+  "arquivo": "REABASTECIMENTO_041657159521_268097.CSV",
+  "arquivo_modificado_utc": "2026-11-06T07:18:40+00:00",
+  "processado_utc": "2026-11-06T07:20:05.316138+00:00",
+  "total_linhas_origem": 15481,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -4386,6 +4386,18 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "R20014011",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PICKING",
+      "QTD_PICKING": 1.0,
+      "QTD_PULMAO": 0.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
       "ENDERECO_PICKING": "R20016011",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PICKING",
@@ -4615,9 +4627,9 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022862",
       "ENDERECO_PICKING": "R20072011",
-      "QTD_DISPONIVEL": 8.0,
+      "QTD_DISPONIVEL": 7.0,
       "TIPO_ESTOQUE": "PICKING",
-      "QTD_PICKING": 8.0,
+      "QTD_PICKING": 7.0,
       "QTD_PULMAO": 0.0
     },
     {
@@ -28254,18 +28266,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943241825",
-      "ENDERECO_PICKING": "R14123031",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "3183",
-      "SKU": "38TAVCB12M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898943241825",
       "ENDERECO_PICKING": "R14128021",
       "QTD_DISPONIVEL": 12.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -28627,9 +28627,9 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943241825",
       "ENDERECO_PICKING": "R19021011",
-      "QTD_DISPONIVEL": 3.0,
+      "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PICKING",
-      "QTD_PICKING": 3.0,
+      "QTD_PICKING": 1.0,
       "QTD_PULMAO": 0.0
     },
     {
@@ -29599,10 +29599,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943240088",
       "ENDERECO_PICKING": "R15055021",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 3.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 3.0
     },
     {
       "IDPRODUTO": "3836",
@@ -29615,18 +29615,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 18.0
-    },
-    {
-      "IDPRODUTO": "3836",
-      "SKU": "38TBVCC09M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898943240088",
-      "ENDERECO_PICKING": "R15064011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "3836",
@@ -30271,10 +30259,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943240071",
       "ENDERECO_PICKING": "R14031011",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "3837",
@@ -30287,30 +30275,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 6.0
-    },
-    {
-      "IDPRODUTO": "3837",
-      "SKU": "42GPVCA09M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898943240071",
-      "ENDERECO_PICKING": "R14037011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "3837",
-      "SKU": "42GPVCA09M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898943240071",
-      "ENDERECO_PICKING": "R14038011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "3837",
