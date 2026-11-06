@@ -1,7 +1,7 @@
 {
-  "arquivo": "REABASTECIMENTO_211657157705_267161.CSV",
-  "arquivo_modificado_utc": "2026-11-06T00:17:58+00:00",
-  "processado_utc": "2026-11-06T00:20:05.358298+00:00",
+  "arquivo": "REABASTECIMENTO_212657175400_267181.CSV",
+  "arquivo_modificado_utc": "2026-11-06T00:27:17+00:00",
+  "processado_utc": "2026-11-06T00:30:04.862218+00:00",
   "total_linhas_origem": 15510,
   "skus_monitorados": [
     "PP5MS1",
@@ -23070,6 +23070,18 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198005124",
+      "ENDERECO_PICKING": "R12083011",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "3784",
+      "SKU": "MF200D105WB/GK-01",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198005124",
       "ENDERECO_PICKING": "R12106011",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -27439,10 +27451,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898945167598",
       "ENDERECO_PICKING": "R24077041",
-      "QTD_DISPONIVEL": 6.0,
+      "QTD_DISPONIVEL": 5.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 6.0
+      "QTD_PULMAO": 5.0
     },
     {
       "IDPRODUTO": "372",
@@ -28543,10 +28555,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943241825",
       "ENDERECO_PICKING": "R15088021",
-      "QTD_DISPONIVEL": 12.0,
+      "QTD_DISPONIVEL": 10.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 12.0
+      "QTD_PULMAO": 10.0
     },
     {
       "IDPRODUTO": "3183",
