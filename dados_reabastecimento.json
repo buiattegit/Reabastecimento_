@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_213657155911_267205.CSV",
-  "arquivo_modificado_utc": "2026-11-06T00:37:54+00:00",
-  "processado_utc": "2026-11-06T00:40:04.872993+00:00",
-  "total_linhas_origem": 15511,
+  "arquivo": "REABASTECIMENTO_214657154014_267221.CSV",
+  "arquivo_modificado_utc": "2026-11-06T00:48:28+00:00",
+  "processado_utc": "2026-11-06T00:50:04.875935+00:00",
+  "total_linhas_origem": 15517,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -30666,18 +30666,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943240071",
-      "ENDERECO_PICKING": "R15049011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "3837",
-      "SKU": "42GPVCA09M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898943240071",
       "ENDERECO_PICKING": "R15050021",
       "QTD_DISPONIVEL": 16.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -30707,6 +30695,18 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 16.0
+    },
+    {
+      "IDPRODUTO": "3837",
+      "SKU": "42GPVCA09M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943240071",
+      "ENDERECO_PICKING": "R15073041",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "3837",
