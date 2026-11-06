@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_030657159572_267917.CSV",
-  "arquivo_modificado_utc": "2026-11-06T06:07:47+00:00",
-  "processado_utc": "2026-11-06T06:10:05.068148+00:00",
-  "total_linhas_origem": 15496,
+  "arquivo": "REABASTECIMENTO_031657163047_267928.CSV",
+  "arquivo_modificado_utc": "2026-11-06T06:18:19+00:00",
+  "processado_utc": "2026-11-06T06:20:04.757605+00:00",
+  "total_linhas_origem": 15498,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -703,6 +703,18 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198021902",
       "ENDERECO_PICKING": "R11120021",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "699",
+      "SKU": "CCB40P2",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198021902",
+      "ENDERECO_PICKING": "R11136041",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
@@ -1835,6 +1847,18 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 2.0
+    },
+    {
+      "IDPRODUTO": "485",
+      "SKU": "MDRD108FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022862",
+      "ENDERECO_PICKING": "B0304101",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "485",
@@ -4343,18 +4367,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 2.0
-    },
-    {
-      "IDPRODUTO": "485",
-      "SKU": "MDRD108FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022862",
-      "ENDERECO_PICKING": "R20006011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PICKING",
-      "QTD_PICKING": 1.0,
-      "QTD_PULMAO": 0.0
     },
     {
       "IDPRODUTO": "485",
@@ -22891,6 +22903,18 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198005124",
       "ENDERECO_PICKING": "R12043011",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "3784",
+      "SKU": "MF200D105WB/GK-01",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198005124",
+      "ENDERECO_PICKING": "R12083011",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
