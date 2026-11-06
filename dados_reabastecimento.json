@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_034107214136_267969.CSV",
-  "arquivo_modificado_utc": "2026-11-06T06:41:33+00:00",
-  "processado_utc": "2026-11-06T06:50:05.223524+00:00",
-  "total_linhas_origem": 15479,
+  "arquivo": "REABASTECIMENTO_035657160247_268005.CSV",
+  "arquivo_modificado_utc": "2026-11-06T06:57:28+00:00",
+  "processado_utc": "2026-11-06T07:00:05.491815+00:00",
+  "total_linhas_origem": 15486,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -28199,18 +28199,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 12.0
-    },
-    {
-      "IDPRODUTO": "3183",
-      "SKU": "38TAVCB12M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898943241825",
-      "ENDERECO_PICKING": "OUT001111",
-      "QTD_DISPONIVEL": 25.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 25.0
     },
     {
       "IDPRODUTO": "3183",
