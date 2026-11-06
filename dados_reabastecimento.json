@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_022657156768_267870.CSV",
-  "arquivo_modificado_utc": "2026-11-06T05:27:22+00:00",
-  "processado_utc": "2026-11-06T05:30:04.885230+00:00",
-  "total_linhas_origem": 15501,
+  "arquivo": "REABASTECIMENTO_023657157088_267881.CSV",
+  "arquivo_modificado_utc": "2026-11-06T05:38:02+00:00",
+  "processado_utc": "2026-11-06T05:40:04.645223+00:00",
+  "total_linhas_origem": 15498,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -534,18 +534,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R10051011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
       "ENDERECO_PICKING": "R10083041",
       "QTD_DISPONIVEL": 22.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -955,10 +943,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198021902",
       "ENDERECO_PICKING": "R13040041",
-      "QTD_DISPONIVEL": 1.0,
+      "QTD_DISPONIVEL": 2.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
+      "QTD_PULMAO": 2.0
     },
     {
       "IDPRODUTO": "699",
@@ -1039,10 +1027,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198021902",
       "ENDERECO_PICKING": "R13128021",
-      "QTD_DISPONIVEL": 13.0,
+      "QTD_DISPONIVEL": 12.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 13.0
+      "QTD_PULMAO": 12.0
     },
     {
       "IDPRODUTO": "699",
@@ -20363,18 +20351,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 8.0
-    },
-    {
-      "IDPRODUTO": "498",
-      "SKU": "MDRX150FGG502",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198023883",
-      "ENDERECO_PICKING": "R11042051",
-      "QTD_DISPONIVEL": 2.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 2.0
     },
     {
       "IDPRODUTO": "498",
