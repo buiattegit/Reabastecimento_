@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_032657187056_267940.CSV",
-  "arquivo_modificado_utc": "2026-11-06T06:27:40+00:00",
-  "processado_utc": "2026-11-06T06:30:05.307597+00:00",
-  "total_linhas_origem": 15496,
+  "arquivo": "REABASTECIMENTO_033657158525_267957.CSV",
+  "arquivo_modificado_utc": "2026-11-06T06:38:27+00:00",
+  "processado_utc": "2026-11-06T06:40:04.817225+00:00",
+  "total_linhas_origem": 15481,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -22879,18 +22879,6 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198005124",
       "ENDERECO_PICKING": "R12043011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "3784",
-      "SKU": "MF200D105WB/GK-01",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198005124",
-      "ENDERECO_PICKING": "R12083011",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
