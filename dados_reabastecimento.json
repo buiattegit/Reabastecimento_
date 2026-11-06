@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_004657164403_267694.CSV",
-  "arquivo_modificado_utc": "2026-11-06T03:48:37+00:00",
-  "processado_utc": "2026-11-06T03:50:04.636184+00:00",
-  "total_linhas_origem": 15520,
+  "arquivo": "REABASTECIMENTO_005107214760_267704.CSV",
+  "arquivo_modificado_utc": "2026-11-06T03:51:56+00:00",
+  "processado_utc": "2026-11-06T04:00:04.981000+00:00",
+  "total_linhas_origem": 15519,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -28591,18 +28591,6 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943241825",
       "ENDERECO_PICKING": "R19017011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PICKING",
-      "QTD_PICKING": 1.0,
-      "QTD_PULMAO": 0.0
-    },
-    {
-      "IDPRODUTO": "3183",
-      "SKU": "38TAVCB12M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898943241825",
-      "ENDERECO_PICKING": "R19019011",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PICKING",
       "QTD_PICKING": 1.0,
