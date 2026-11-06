@@ -1,7 +1,7 @@
 {
-  "arquivo": "REABASTECIMENTO_084107213068_268549.CSV",
-  "arquivo_modificado_utc": "2026-11-06T11:41:37+00:00",
-  "processado_utc": "2026-11-06T11:50:05.169594+00:00",
+  "arquivo": "REABASTECIMENTO_085657204195_268606.CSV",
+  "arquivo_modificado_utc": "2026-11-06T11:57:35+00:00",
+  "processado_utc": "2026-11-06T12:00:06.261948+00:00",
   "total_linhas_origem": 15414,
   "skus_monitorados": [
     "PP5MS1",
@@ -1667,18 +1667,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 2.0
-    },
-    {
-      "IDPRODUTO": "485",
-      "SKU": "MDRD108FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022862",
-      "ENDERECO_PICKING": "B0304101",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "485",
@@ -16375,10 +16363,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198015352",
       "ENDERECO_PICKING": "B0601101",
-      "QTD_DISPONIVEL": 19.0,
+      "QTD_DISPONIVEL": 20.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 19.0
+      "QTD_PULMAO": 20.0
     },
     {
       "IDPRODUTO": "697",
@@ -23610,18 +23598,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022015",
-      "ENDERECO_PICKING": "R10034011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "797",
-      "SKU": "PP5MS1",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022015",
       "ENDERECO_PICKING": "R10034031",
       "QTD_DISPONIVEL": 32.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -25039,9 +25015,9 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022015",
       "ENDERECO_PICKING": "R17043011",
-      "QTD_DISPONIVEL": 16.0,
+      "QTD_DISPONIVEL": 17.0,
       "TIPO_ESTOQUE": "PICKING",
-      "QTD_PICKING": 16.0,
+      "QTD_PICKING": 17.0,
       "QTD_PULMAO": 0.0
     },
     {
