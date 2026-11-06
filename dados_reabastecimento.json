@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_110657159942_268940.CSV",
-  "arquivo_modificado_utc": "2026-11-06T14:08:48+00:00",
-  "processado_utc": "2026-11-06T14:10:17.706923+00:00",
-  "total_linhas_origem": 73501,
+  "arquivo": "REABASTECIMENTO_111107218389_268946.CSV",
+  "arquivo_modificado_utc": "2026-11-06T14:12:05+00:00",
+  "processado_utc": "2026-11-06T14:20:17.406839+00:00",
+  "total_linhas_origem": 73471,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -223622,20 +223622,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198023159",
-      "ENDERECO_PICKING": "R12059011",
-      "LOTE": "3245734",
-      "DATA_FABRICACAO": "2026-07-16",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "795",
-      "SKU": "MDWTF08B1",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198023159",
       "ENDERECO_PICKING": "R13110051",
       "LOTE": "3246444",
       "DATA_FABRICACAO": "2026-07-16",
@@ -223804,20 +223790,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198023159",
-      "ENDERECO_PICKING": "R13086011",
-      "LOTE": "3111926",
-      "DATA_FABRICACAO": "2026-08-01",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "795",
-      "SKU": "MDWTF08B1",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198023159",
       "ENDERECO_PICKING": "R13135041",
       "LOTE": "3240790",
       "DATA_FABRICACAO": "2026-08-01",
@@ -223881,20 +223853,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "795",
-      "SKU": "MDWTF08B1",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198023159",
-      "ENDERECO_PICKING": "R17102011",
-      "LOTE": "3204243",
-      "DATA_FABRICACAO": "2026-08-01",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PICKING",
-      "QTD_PICKING": 1.0,
-      "QTD_PULMAO": 0.0
     },
     {
       "IDPRODUTO": "795",
@@ -223993,20 +223951,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "795",
-      "SKU": "MDWTF08B1",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198023159",
-      "ENDERECO_PICKING": "R17018011",
-      "LOTE": "3218579",
-      "DATA_FABRICACAO": "2026-08-12",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PICKING",
-      "QTD_PICKING": 1.0,
-      "QTD_PULMAO": 0.0
     },
     {
       "IDPRODUTO": "795",
