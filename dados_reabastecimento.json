@@ -1,7 +1,7 @@
 {
-  "arquivo": "REABASTECIMENTO_224657158631_267376.CSV",
-  "arquivo_modificado_utc": "2026-11-06T01:48:01+00:00",
-  "processado_utc": "2026-11-06T01:50:04.683988+00:00",
+  "arquivo": "REABASTECIMENTO_225822162278_267396.CSV",
+  "arquivo_modificado_utc": "2026-11-06T01:58:50+00:00",
+  "processado_utc": "2026-11-06T02:00:05.084147+00:00",
   "total_linhas_origem": 15533,
   "skus_monitorados": [
     "PP5MS1",
@@ -16279,9 +16279,9 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022886",
       "ENDERECO_PICKING": "R17082011",
-      "QTD_DISPONIVEL": 4.0,
+      "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PICKING",
-      "QTD_PICKING": 4.0,
+      "QTD_PICKING": 1.0,
       "QTD_PULMAO": 0.0
     },
     {
