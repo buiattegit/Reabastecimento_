@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_074657156079_268454.CSV",
-  "arquivo_modificado_utc": "2026-11-06T10:47:22+00:00",
-  "processado_utc": "2026-11-06T10:50:05.407337+00:00",
-  "total_linhas_origem": 15468,
+  "arquivo": "REABASTECIMENTO_075657157300_268476.CSV",
+  "arquivo_modificado_utc": "2026-11-06T10:57:58+00:00",
+  "processado_utc": "2026-11-06T11:00:05.831026+00:00",
+  "total_linhas_origem": 15472,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -20783,6 +20783,18 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 8.0
+    },
+    {
+      "IDPRODUTO": "498",
+      "SKU": "MDRX150FGG502",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023883",
+      "ENDERECO_PICKING": "R13074021",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "498",
