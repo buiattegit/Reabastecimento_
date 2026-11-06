@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_061657166474_268304.CSV",
-  "arquivo_modificado_utc": "2026-11-06T09:17:17+00:00",
-  "processado_utc": "2026-11-06T09:20:05.023704+00:00",
-  "total_linhas_origem": 15533,
+  "arquivo": "REABASTECIMENTO_062657160180_268316.CSV",
+  "arquivo_modificado_utc": "2026-11-06T09:27:52+00:00",
+  "processado_utc": "2026-11-06T09:30:05.505842+00:00",
+  "total_linhas_origem": 15515,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -354,43 +354,7 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R09007021",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R09053041",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
       "ENDERECO_PICKING": "R09061041",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R09065041",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
@@ -443,18 +407,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 22.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R09105031",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "699",
@@ -582,23 +534,11 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R11014021",
-      "QTD_DISPONIVEL": 3.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 3.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
       "ENDERECO_PICKING": "R11014031",
-      "QTD_DISPONIVEL": 24.0,
+      "QTD_DISPONIVEL": 20.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 24.0
+      "QTD_PULMAO": 20.0
     },
     {
       "IDPRODUTO": "699",
@@ -691,10 +631,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198021902",
       "ENDERECO_PICKING": "R11054031",
-      "QTD_DISPONIVEL": 5.0,
+      "QTD_DISPONIVEL": 3.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 5.0
+      "QTD_PULMAO": 3.0
     },
     {
       "IDPRODUTO": "699",
@@ -707,54 +647,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 22.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R11120021",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R11136041",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R11138041",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R11146041",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "699",
@@ -858,30 +750,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R12058011",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R12069041",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
       "ENDERECO_PICKING": "R12118021",
       "QTD_DISPONIVEL": 22.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -954,18 +822,6 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R13040041",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
       "ENDERECO_PICKING": "R13051021",
       "QTD_DISPONIVEL": 21.0,
       "TIPO_ESTOQUE": "PULMAO",
@@ -1019,30 +875,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R13118051",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R13128021",
-      "QTD_DISPONIVEL": 12.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 12.0
     },
     {
       "IDPRODUTO": "699",
@@ -1183,10 +1015,10 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198021902",
       "ENDERECO_PICKING": "R13154011",
-      "QTD_DISPONIVEL": 18.0,
+      "QTD_DISPONIVEL": 16.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 18.0
+      "QTD_PULMAO": 16.0
     },
     {
       "IDPRODUTO": "699",
@@ -1223,18 +1055,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "699",
-      "SKU": "CCB40P2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198021902",
-      "ENDERECO_PICKING": "R17073011",
-      "QTD_DISPONIVEL": 2.0,
-      "TIPO_ESTOQUE": "PICKING",
-      "QTD_PICKING": 2.0,
-      "QTD_PULMAO": 0.0
     },
     {
       "IDPRODUTO": "611",
