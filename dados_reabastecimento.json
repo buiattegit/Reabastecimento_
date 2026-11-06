@@ -1,7 +1,7 @@
 {
-  "arquivo": "REABASTECIMENTO_024822164369_267894.CSV",
-  "arquivo_modificado_utc": "2026-11-06T05:48:46+00:00",
-  "processado_utc": "2026-11-06T05:50:04.858631+00:00",
+  "arquivo": "REABASTECIMENTO_025107210958_267898.CSV",
+  "arquivo_modificado_utc": "2026-11-06T05:51:50+00:00",
+  "processado_utc": "2026-11-06T06:00:05.063958+00:00",
   "total_linhas_origem": 15493,
   "skus_monitorados": [
     "PP5MS1",
@@ -17119,6 +17119,18 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198023876",
       "ENDERECO_PICKING": "R09063021",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "499",
+      "SKU": "MDRX150FGG501",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198023876",
+      "ENDERECO_PICKING": "R09065021",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
