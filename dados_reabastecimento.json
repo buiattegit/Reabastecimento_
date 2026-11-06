@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_095657161074_268705.CSV",
-  "arquivo_modificado_utc": "2026-11-06T12:57:56+00:00",
-  "processado_utc": "2026-11-06T13:00:18.385457+00:00",
-  "total_linhas_origem": 73389,
+  "arquivo": "REABASTECIMENTO_100657160932_268734.CSV",
+  "arquivo_modificado_utc": "2026-11-06T13:08:32+00:00",
+  "processado_utc": "2026-11-06T13:10:16.414100+00:00",
+  "total_linhas_origem": 73406,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -240842,7 +240842,7 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898554875068",
-      "ENDERECO_PICKING": "R15097011",
+      "ENDERECO_PICKING": "R15097021",
       "LOTE": "3245407",
       "DATA_FABRICACAO": "2026-05-28",
       "QTD_DISPONIVEL": 1.0,
