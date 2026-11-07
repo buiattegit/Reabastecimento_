@@ -1,7 +1,7 @@
 {
-  "arquivo": "REABASTECIMENTO_202657155897_273540.CSV",
-  "arquivo_modificado_utc": "2026-11-07T23:28:10+00:00",
-  "processado_utc": "2026-11-07T23:30:16.295844+00:00",
+  "arquivo": "REABASTECIMENTO_203657158651_273551.CSV",
+  "arquivo_modificado_utc": "2026-11-07T23:37:31+00:00",
+  "processado_utc": "2026-11-07T23:40:17.447724+00:00",
   "total_linhas_origem": 71294,
   "skus_monitorados": [
     "PP5MS1",
@@ -20679,7 +20679,7 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943241825",
       "ENDERECO_PICKING": "R19134011",
-      "LOTE": "3115314",
+      "LOTE": "3115294",
       "DATA_FABRICACAO": "2026-09-03",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PICKING",
@@ -20693,7 +20693,7 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898943241825",
       "ENDERECO_PICKING": "R19134011",
-      "LOTE": "3115316",
+      "LOTE": "3115295",
       "DATA_FABRICACAO": "2026-09-03",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PICKING",
