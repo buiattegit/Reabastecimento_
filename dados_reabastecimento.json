@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_125657158769_275394.CSV",
-  "arquivo_modificado_utc": "2026-11-08T15:58:01+00:00",
-  "processado_utc": "2026-11-08T16:00:17.094367+00:00",
-  "total_linhas_origem": 71475,
+  "arquivo": "REABASTECIMENTO_130657160343_275405.CSV",
+  "arquivo_modificado_utc": "2026-11-08T16:08:37+00:00",
+  "processado_utc": "2026-11-08T16:10:17.915131+00:00",
+  "total_linhas_origem": 71477,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
