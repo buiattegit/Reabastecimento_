@@ -1,7 +1,7 @@
 {
-  "arquivo": "REABASTECIMENTO_000657161913_273911.CSV",
-  "arquivo_modificado_utc": "2026-11-08T03:07:33+00:00",
-  "processado_utc": "2026-11-08T03:10:20.159322+00:00",
+  "arquivo": "REABASTECIMENTO_001657157611_273930.CSV",
+  "arquivo_modificado_utc": "2026-11-08T03:18:08+00:00",
+  "processado_utc": "2026-11-08T03:20:16.437121+00:00",
   "total_linhas_origem": 72029,
   "skus_monitorados": [
     "PP5MS1",
