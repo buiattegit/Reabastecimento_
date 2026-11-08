@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_100657158038_275143.CSV",
-  "arquivo_modificado_utc": "2026-11-08T13:08:25+00:00",
-  "processado_utc": "2026-11-08T13:10:16.802287+00:00",
-  "total_linhas_origem": 71799,
+  "arquivo": "REABASTECIMENTO_101107213078_275150.CSV",
+  "arquivo_modificado_utc": "2026-11-08T13:11:40+00:00",
+  "processado_utc": "2026-11-08T13:20:17.140818+00:00",
+  "total_linhas_origem": 71827,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -18865,6 +18865,34 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R19088011",
+      "LOTE": "3115267",
+      "DATA_FABRICACAO": "2026-09-03",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PICKING",
+      "QTD_PICKING": 1.0,
+      "QTD_PULMAO": 0.0
+    },
+    {
+      "IDPRODUTO": "3183",
+      "SKU": "38TAVCB12M5",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898943241825",
+      "ENDERECO_PICKING": "R19088011",
+      "LOTE": "3115268",
+      "DATA_FABRICACAO": "2026-09-03",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PICKING",
+      "QTD_PICKING": 1.0,
+      "QTD_PULMAO": 0.0
     },
     {
       "IDPRODUTO": "3183",
@@ -95109,6 +95137,48 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "492",
+      "SKU": "MDRD142FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022398",
+      "ENDERECO_PICKING": "R16020011",
+      "LOTE": "3039866",
+      "DATA_FABRICACAO": "2026-08-20",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PICKING",
+      "QTD_PICKING": 1.0,
+      "QTD_PULMAO": 0.0
+    },
+    {
+      "IDPRODUTO": "492",
+      "SKU": "MDRD142FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022398",
+      "ENDERECO_PICKING": "R16020011",
+      "LOTE": "3040373",
+      "DATA_FABRICACAO": "2026-08-20",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PICKING",
+      "QTD_PICKING": 1.0,
+      "QTD_PULMAO": 0.0
+    },
+    {
+      "IDPRODUTO": "492",
+      "SKU": "MDRD142FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022398",
+      "ENDERECO_PICKING": "R16020011",
+      "LOTE": "3052727",
+      "DATA_FABRICACAO": "2026-08-20",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PICKING",
+      "QTD_PICKING": 1.0,
+      "QTD_PULMAO": 0.0
     },
     {
       "IDPRODUTO": "492",
