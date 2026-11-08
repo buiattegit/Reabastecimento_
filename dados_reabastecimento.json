@@ -1,7 +1,7 @@
 {
-  "arquivo": "REABASTECIMENTO_050657160396_274625.CSV",
-  "arquivo_modificado_utc": "2026-11-08T08:07:38+00:00",
-  "processado_utc": "2026-11-08T08:10:15.224073+00:00",
+  "arquivo": "REABASTECIMENTO_051657156033_274636.CSV",
+  "arquivo_modificado_utc": "2026-11-08T08:18:11+00:00",
+  "processado_utc": "2026-11-08T08:20:15.329290+00:00",
   "total_linhas_origem": 71540,
   "skus_monitorados": [
     "PP5MS1",
@@ -178010,6 +178010,20 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022886",
+      "ENDERECO_PICKING": "R09158031",
+      "LOTE": "3234501",
+      "DATA_FABRICACAO": "2026-07-06",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "483",
+      "SKU": "MDRD181FGD303",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7908198022886",
       "ENDERECO_PICKING": "R11118011",
       "LOTE": "3234505",
       "DATA_FABRICACAO": "2026-07-06",
@@ -184723,20 +184737,6 @@
       "TIPO_ESTOQUE": "PICKING",
       "QTD_PICKING": 1.0,
       "QTD_PULMAO": 0.0
-    },
-    {
-      "IDPRODUTO": "483",
-      "SKU": "MDRD181FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022886",
-      "ENDERECO_PICKING": "R09158031",
-      "LOTE": "3267361",
-      "DATA_FABRICACAO": "2026-11-05",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
     },
     {
       "IDPRODUTO": "730",
