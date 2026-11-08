@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_021657164181_274230.CSV",
-  "arquivo_modificado_utc": "2026-11-08T05:18:02+00:00",
-  "processado_utc": "2026-11-08T05:20:16.244479+00:00",
-  "total_linhas_origem": 71752,
+  "arquivo": "REABASTECIMENTO_030657163405_274287.CSV",
+  "arquivo_modificado_utc": "2026-11-08T06:07:47+00:00",
+  "processado_utc": "2026-11-08T06:10:15.706104+00:00",
+  "total_linhas_origem": 71754,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -221721,6 +221721,20 @@
       "ENDERECO_PICKING": "R18079031",
       "LOTE": "3065738",
       "DATA_FABRICACAO": "2024-03-25",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "310",
+      "SKU": "MRAE21",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898554875075",
+      "ENDERECO_PICKING": "R15139011",
+      "LOTE": "3031272",
+      "DATA_FABRICACAO": "2025-12-12",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
