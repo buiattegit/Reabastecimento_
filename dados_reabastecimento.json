@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_193657164467_279701.CSV",
-  "arquivo_modificado_utc": "2026-11-09T22:38:23+00:00",
-  "processado_utc": "2026-11-09T22:40:19.552830+00:00",
-  "total_linhas_origem": 73125,
+  "arquivo": "REABASTECIMENTO_194657157535_279713.CSV",
+  "arquivo_modificado_utc": "2026-11-09T22:47:44+00:00",
+  "processado_utc": "2026-11-09T22:50:21.183780+00:00",
+  "total_linhas_origem": 72951,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -235571,20 +235571,6 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "796",
-      "SKU": "MDWTF08B2",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198023166",
-      "ENDERECO_PICKING": "R20040011",
-      "LOTE": "3235824",
-      "DATA_FABRICACAO": "2026-09-02",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PICKING",
-      "QTD_PICKING": 1.0,
-      "QTD_PULMAO": 0.0
     },
     {
       "IDPRODUTO": "796",
