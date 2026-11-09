@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_145657165182_279045.CSV",
-  "arquivo_modificado_utc": "2026-11-09T17:57:50+00:00",
-  "processado_utc": "2026-11-09T18:00:19.115850+00:00",
-  "total_linhas_origem": 73353,
+  "arquivo": "REABASTECIMENTO_150657166031_279061.CSV",
+  "arquivo_modificado_utc": "2026-11-09T18:08:06+00:00",
+  "processado_utc": "2026-11-09T18:10:18.711094+00:00",
+  "total_linhas_origem": 73354,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -186930,20 +186930,6 @@
       "CODIGO_BARRAS": "7908198022886",
       "ENDERECO_PICKING": "R19087031",
       "LOTE": "3249108",
-      "DATA_FABRICACAO": "2026-10-08",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "483",
-      "SKU": "MDRD181FGD303",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7908198022886",
-      "ENDERECO_PICKING": "R19102021",
-      "LOTE": "3225598",
       "DATA_FABRICACAO": "2026-10-08",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
