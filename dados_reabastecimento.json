@@ -1,7 +1,7 @@
 {
-  "arquivo": "REABASTECIMENTO_205657155409_276427.CSV",
-  "arquivo_modificado_utc": "2026-11-08T23:58:20+00:00",
-  "processado_utc": "2026-11-09T00:00:14.718630+00:00",
+  "arquivo": "REABASTECIMENTO_210657158263_276442.CSV",
+  "arquivo_modificado_utc": "2026-11-09T00:08:51+00:00",
+  "processado_utc": "2026-11-09T00:10:16.385127+00:00",
   "total_linhas_origem": 70639,
   "skus_monitorados": [
     "PP5MS1",
@@ -91953,7 +91953,7 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R11067011",
-      "LOTE": "3052106",
+      "LOTE": "3034143",
       "DATA_FABRICACAO": "2026-09-10",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
