@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_204657160428_279815.CSV",
-  "arquivo_modificado_utc": "2026-11-09T23:47:25+00:00",
-  "processado_utc": "2026-11-09T23:50:20.927910+00:00",
-  "total_linhas_origem": 72782,
+  "arquivo": "REABASTECIMENTO_205657160508_279912.CSV",
+  "arquivo_modificado_utc": "2026-11-09T23:57:56+00:00",
+  "processado_utc": "2026-11-10T00:00:20.347180+00:00",
+  "total_linhas_origem": 72774,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -8696,20 +8696,6 @@
       "CODIGO_BARRAS": "7898945167666",
       "ENDERECO_PICKING": "R15085021",
       "LOTE": "3251947",
-      "DATA_FABRICACAO": "2026-09-08",
-      "QTD_DISPONIVEL": 1.0,
-      "TIPO_ESTOQUE": "PULMAO",
-      "QTD_PICKING": 0.0,
-      "QTD_PULMAO": 1.0
-    },
-    {
-      "IDPRODUTO": "299",
-      "SKU": "38EZVQA12M5",
-      "IDDEPOSITANTE": "371",
-      "IDARMAZEM": "5",
-      "CODIGO_BARRAS": "7898945167666",
-      "ENDERECO_PICKING": "R15085021",
-      "LOTE": "3251948",
       "DATA_FABRICACAO": "2026-09-08",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
