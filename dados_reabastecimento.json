@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_210657157111_280021.CSV",
-  "arquivo_modificado_utc": "2026-11-10T00:08:29+00:00",
-  "processado_utc": "2026-11-10T00:10:21.572730+00:00",
-  "total_linhas_origem": 72771,
+  "arquivo": "REABASTECIMENTO_211657156594_280047.CSV",
+  "arquivo_modificado_utc": "2026-11-10T00:18:00+00:00",
+  "processado_utc": "2026-11-10T00:20:22.681339+00:00",
+  "total_linhas_origem": 72774,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -110293,7 +110293,7 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022398",
       "ENDERECO_PICKING": "R16068011",
-      "LOTE": "3062967",
+      "LOTE": "3058288",
       "DATA_FABRICACAO": "2026-09-10",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PICKING",
@@ -242480,6 +242480,20 @@
       "IDDEPOSITANTE": "371",
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7898554875068",
+      "ENDERECO_PICKING": "R15139011",
+      "LOTE": "3039677",
+      "DATA_FABRICACAO": "2026-05-28",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PULMAO",
+      "QTD_PICKING": 0.0,
+      "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "693",
+      "SKU": "MRAS22",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898554875068",
       "ENDERECO_PICKING": "R16159011",
       "LOTE": "3245408",
       "DATA_FABRICACAO": "2026-05-28",
@@ -242571,6 +242585,20 @@
       "TIPO_ESTOQUE": "PULMAO",
       "QTD_PICKING": 0.0,
       "QTD_PULMAO": 1.0
+    },
+    {
+      "IDPRODUTO": "693",
+      "SKU": "MRAS22",
+      "IDDEPOSITANTE": "371",
+      "IDARMAZEM": "5",
+      "CODIGO_BARRAS": "7898554875068",
+      "ENDERECO_PICKING": "R17006011",
+      "LOTE": "3170199",
+      "DATA_FABRICACAO": "2026-06-20",
+      "QTD_DISPONIVEL": 1.0,
+      "TIPO_ESTOQUE": "PICKING",
+      "QTD_PICKING": 1.0,
+      "QTD_PULMAO": 0.0
     },
     {
       "IDPRODUTO": "693",
