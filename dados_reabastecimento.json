@@ -1,8 +1,8 @@
 {
-  "arquivo": "REABASTECIMENTO_145657170415_283539.CSV",
-  "arquivo_modificado_utc": "2026-11-10T17:57:50+00:00",
-  "processado_utc": "2026-11-10T18:00:23.493535+00:00",
-  "total_linhas_origem": 70497,
+  "arquivo": "REABASTECIMENTO_150657160631_283571.CSV",
+  "arquivo_modificado_utc": "2026-11-10T18:08:27+00:00",
+  "processado_utc": "2026-11-10T18:10:22.007925+00:00",
+  "total_linhas_origem": 70209,
   "skus_monitorados": [
     "PP5MS1",
     "MDRD142FGD303",
@@ -231379,7 +231379,7 @@
       "IDARMAZEM": "5",
       "CODIGO_BARRAS": "7908198022015",
       "ENDERECO_PICKING": "OUT002111",
-      "LOTE": "3245077",
+      "LOTE": "3073375",
       "DATA_FABRICACAO": "2026-09-29",
       "QTD_DISPONIVEL": 1.0,
       "TIPO_ESTOQUE": "PULMAO",
