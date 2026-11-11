@@ -7,6 +7,6 @@
     "binding": "ASSETS"
   },
   "vars": {
-    "ALLOWED_EDITOR_IPS": "162.120.186.85"
+    "ALLOWED_EDITOR_IPS": "177.10.46.65"
   }
 }
