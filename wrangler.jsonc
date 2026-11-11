@@ -1,9 +1,12 @@
 {
   "name": "reabastecimento",
   "main": "worker.js",
-  "compatibility_date": "2026-11-01",
+  "compatibility_date": "2026-11-11",
   "assets": {
-    "directory": ".",
+    "directory": "./",
     "binding": "ASSETS"
+  },
+  "vars": {
+    "ALLOWED_EDITOR_IPS": "162.120.186.85"
   }
 }
