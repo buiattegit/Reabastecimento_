@@ -186,10 +186,58 @@ export default {
 
       const { cfg, sha } = await readGithub(env);
 
-      // Mantém os mínimos e demais configurações.
+      // Recebe mínimos somente dos SKUs enviados,
+      // sem apagar configurações anteriores.
+      const received = body.minimos;
+
+      if (
+        received !== undefined &&
+        (
+          received === null ||
+          typeof received !== 'object' ||
+          Array.isArray(received)
+        )
+      ) {
+        return reply({
+          error: 'Mapa de mínimos inválido'
+        }, 400);
+      }
+
+      const minimos = { ...(cfg.minimos || {}) };
+
+      for (const sku of skus) {
+        const value =
+          received &&
+          Object.prototype.hasOwnProperty.call(received, sku)
+            ? Number(received[sku])
+            : Number(minimos[sku]);
+
+        if (
+          !Number.isSafeInteger(value) ||
+          value < 1 ||
+          value > 100000
+        ) {
+          // Se não veio mínimo, aplica 1.
+          // Valores explícitos inválidos são rejeitados.
+          if (
+            received &&
+            Object.prototype.hasOwnProperty.call(received, sku)
+          ) {
+            return reply({
+              error: `Mínimo inválido para ${sku}`
+            }, 400);
+          }
+
+          minimos[sku] = 1;
+        } else {
+          minimos[sku] = value;
+        }
+      }
+
       const updated = {
         ...cfg,
-        skus
+        skus,
+        minimos
       };
 
       const res = await fetch(GH, {
